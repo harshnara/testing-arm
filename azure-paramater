@@ -6,7 +6,7 @@
             "value": "2016-10-01"
         },
         "workflowName": {
-            "value": "Testing-ARM"
+            "value": "Sample-Logic-App"
         },
         "workflowLocation": {
             "value": "centralus"
